@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap_portfolio_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DicksonChris/PokeDex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DicksonChris/PokeDex/issues"
+  },
+  "homepage": "https://github.com/DicksonChris/PokeDex#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.1",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
